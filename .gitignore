@@ -3,6 +3,3 @@ dist
 .DS_Store
 *.local
 .env.*.local
-
-# 演示视频体积较大，默认不入库；如需发布请改用 Git LFS 或外链托管
-*.mp4
